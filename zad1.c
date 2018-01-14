@@ -22,6 +22,9 @@ int euklides(int a, int b){
     }
     return euklides(a,b);
   }
+  if (a>b) {
+    /* code */
+  }
   return a;
 }
 

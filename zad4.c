@@ -1,5 +1,5 @@
 // ZAD 4
-// na tyle ile pozwala typ zmiennej jak zadna z wartosci nie jest 0
+// na tyle ile pozwala typ zmiennej jak zadna z wartosci nie jest 0 chyba ze zle zapisalem
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
